@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #ff000065;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#oneid {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#twoid {
+    background-color: #90ee90;
+    font-weight: bold;
+}
